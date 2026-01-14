@@ -43,4 +43,4 @@ Refactored from a research-focused implementation into a modular, **Object-Orien
 
 ## 👤 Author
 **Kieron Hall**
-*Data Science Portfolio Project*
+Portfolio Piece*

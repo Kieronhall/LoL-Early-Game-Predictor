@@ -1,4 +1,4 @@
-# LoL-Predictive-Pipeline: OOP Analysis & Automated Reporting
+# LoL-Predictive-Pipeline
 
 ## 📌 Overview
 This repository features a production-ready machine learning pipeline designed to analyze early-game telemetry from High-Diamond *League of Legends* matches. The project investigates the "snowball effect"—quantifying how early-game advantages (gold, objectives, and map pressure) translate into match victories.
